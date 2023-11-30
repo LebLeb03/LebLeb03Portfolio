@@ -1,3 +1,3 @@
 # Portfolio-website-template-Edit-your-portfolio-and-get-your-website-live-Community-HTML
 
-[Edit that thang] (https://diy-pwa.dev/~/gh/LebLeb03/LebLeb03Portfolio)
+[Edit that thang](https://diy-pwa.dev/~/gh/LebLeb03/LebLeb03Portfolio)
